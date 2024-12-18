@@ -1,6 +1,6 @@
 # Device Tree for the Oppo Find X3
 
-The Oppo Find X3 (codenamed _"xynew"_) is a high-end smartphone from realme. It was announced and released in September 2021.
+The Oppo Find X3 (codenamed _"xynew"_) is a high-end smartphone from realme. It was announced and released in March 2021.
 
 ## Device specifications
 
